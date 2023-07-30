@@ -9,10 +9,6 @@
     }
 }
 
-.flow > * + * {
-    margin-top: var(--flow-space, 0.75em);
-}
-
 .wrapper {
     width: min(100% - 3rem, 20rem);
     margin-inline: auto;
