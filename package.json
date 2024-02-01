@@ -26,7 +26,7 @@
     "fill-range": "^7.0.1",
     "fs.realpath": "^1.0.0",
     "function-bind": "^1.1.1",
-    "glob": "^7.1.6",
+    "glob": "^7.2.3",
     "glob-parent": "^6.0.2",
     "has": "^1.0.3",
     "inflight": "^1.0.6",
