@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "tailwindcss": "^3.3.3"
+    "tailwindcss": "^3.4.1"
   },
   "name": "nft-preview-card-component",
   "description": "This is a solution to\r the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).\r Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
@@ -26,7 +26,7 @@
     "fill-range": "^7.0.1",
     "fs.realpath": "^1.0.0",
     "function-bind": "^1.1.1",
-    "glob": "^7.1.6",
+    "glob": "^10.3.10",
     "glob-parent": "^6.0.2",
     "has": "^1.0.3",
     "inflight": "^1.0.6",
@@ -36,7 +36,7 @@
     "is-extglob": "^2.1.1",
     "is-glob": "^4.0.3",
     "is-number": "^7.0.0",
-    "jiti": "^1.19.1",
+    "jiti": "^1.21.0",
     "lilconfig": "^2.1.0",
     "lines-and-columns": "^1.2.4",
     "merge2": "^1.4.1",
@@ -54,7 +54,7 @@
     "picomatch": "^2.3.1",
     "pify": "^2.3.0",
     "pirates": "^4.0.6",
-    "postcss": "^8.4.26",
+    "postcss": "^8.4.33",
     "postcss-import": "^15.1.0",
     "postcss-js": "^4.0.1",
     "postcss-load-config": "^4.0.1",
@@ -64,7 +64,7 @@
     "queue-microtask": "^1.2.3",
     "read-cache": "^1.0.0",
     "readdirp": "^3.6.0",
-    "resolve": "^1.22.2",
+    "resolve": "^1.22.8",
     "reusify": "^1.0.4",
     "run-parallel": "^1.2.0",
     "source-map-js": "^1.0.2",
@@ -76,7 +76,7 @@
     "ts-interface-checker": "^0.1.13",
     "util-deprecate": "^1.0.2",
     "wrappy": "^1.0.2",
-    "yaml": "^2.3.1"
+    "yaml": "^2.3.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
